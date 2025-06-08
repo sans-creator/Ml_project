@@ -27,27 +27,9 @@ Author
 
 📁 Clean folder structure
 
-AlgerianForestFire/
-│
-├── static/                  # Static files (if used in Flask)
-├── templates/               # HTML templates for Flask
-│   └── index.html
-│
-├── notebook/                # Jupyter notebooks for EDA and experimentation
-│   └── eda.ipynb
-│
-├── models/                  # Pickled models
-│   └── ridge_model.pkl
-│
-├── app.py                   # Flask backend
-├── requirements.txt         # Dependencies
-├── utils.py                 # Helper functions (optional)
-├── README.md                # Project documentation
-└── data/
-    └── Algerian_forest_fires_dataset.csv
 
 
-    Project Details
+<h1>Project Details</h1>
 Dataset: Algerian Forest Fires Dataset
 
 Models Used:
